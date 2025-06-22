@@ -37,7 +37,7 @@
 
 
 
-##نحوه اجرا 
+## نحوه اجرا   
    ```bash
     python3 todolist.py
 
